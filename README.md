@@ -2,4 +2,4 @@
 
 ### Publications and Conference Posters
 
-[Google Scholar Page](https://scholar.google.com/citations?user=RASvnnkAAAAJ&hl=en)
+[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=RASvnnkAAAAJ&view_op=list_works&sortby=pubdate)
